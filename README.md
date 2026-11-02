@@ -13,6 +13,10 @@
 
 <br/><br/>
 
+<img src="assets/chip.png" width="480" alt="I must be loyle to my capo" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mn1tchA/mn1tchA/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/mn1tchA/mn1tchA/output/github-snake.svg" />
