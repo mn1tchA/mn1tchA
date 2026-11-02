@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hocine Zair
 
-<!--
-**mn1tchA/mn1tchA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Systems Engineer** focused on **Multi-Model GraphRAG**, **Agentic Workflows (LangGraph / MCP)**, **3D Computer Vision**, and **Audio Signal Processing**.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hocine_Zair-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hocine-zair)
+[![GitHub Followers](https://img.shields.io/github/followers/mn1tchA?label=Follow&style=flat-square&logo=github)](https://github.com/mn1tchA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core Stack & Engineering Focus
+
+```text
+Retrieval & Agents   ::  LangGraph, Model Context Protocol (MCP), ArangoDB (AQL), FAISS, ChromaDB
+Computer Vision & 3D ::  OpenCV, Open3D, Point Cloud Reconstruction, Camera Calibration, TensorFlow
+Audio & Speech DSP   ::  XTTS-v2, Librosa, PyDub, Spectral Subtraction, STFT Pipelines
+Backend & Infra      ::  Python, FastAPI, Docker, GitHub Actions CI, Linux
